@@ -63,7 +63,7 @@ const data = [
 
 const GraphComponent = () => {
   return (
-    <Col span={24}>
+    <Col span={24} className='bg-red' >
       <Row>
         <Col span={16}>
               <ResponsiveContainer width="100%" height={300}>
